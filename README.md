@@ -10,3 +10,4 @@ my language
 
 -angular
 
+-django
