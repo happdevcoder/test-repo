@@ -8,8 +8,6 @@ my language
 
 -javascript
 
--react
-
--deno
+-angular
 
 -django
