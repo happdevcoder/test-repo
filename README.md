@@ -8,5 +8,7 @@ my language
 
 -javascript
 
--angular
+-react
+
+-deno
 
